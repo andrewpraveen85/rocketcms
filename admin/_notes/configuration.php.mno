@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_title" value="name:values;datatype:blob" />
+	<infoitem key="UD_keywords" value="name:values;datatype:blob" />
+	<infoitem key="UD_description" value="name:values;datatype:blob" />
+	<infoitem key="UD_FOOTER" value="name:values;datatype:blob" />
+	<infoitem key="UD_CONTACTEMAIL" value="name:values;datatype:blob" />
+</info>
