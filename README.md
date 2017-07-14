@@ -1,7 +1,7 @@
 # Rocket CMS 1.1.1
 A simple php mysql base cms. which is free and modified to personal use with front end templates.
 
-# How to Settup.
+# How to Setup.
 1. Install/ or upload the CMS.SQL to phpmyadmin.
 2. In config table you can change the default username and password for admin
           Currently default username and password is 'rocketcms';
