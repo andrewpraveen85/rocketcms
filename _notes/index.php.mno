@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_title" value="name:values;datatype:blob" />
+	<infoitem key="UD_keywords" value="name:values;datatype:blob" />
+	<infoitem key="UD_description" value="name:values;datatype:blob" />
+	<infoitem key="UD_HOME" value="name:values;datatype:blob" />
+	<infoitem key="UD_BUSINESS" value="name:values;datatype:blob" />
+	<infoitem key="UD_ABOUTUS" value="name:values;datatype:blob" />
+	<infoitem key="UD_CONTACTUS" value="name:values;datatype:blob" />
+	<infoitem key="UD_CONTACTEMAIL" value="name:values;datatype:blob" />
+	<infoitem key="UD_gallery" value="name:id;datatype:int,name:img_src;datatype:string,name:heading;datatype:string,name:description;datatype:string" />
+	<infoitem key="UD_FOOTER" value="name:values;datatype:blob" />
+</info>
